@@ -1,6 +1,6 @@
 # Building Relationships Academia
 
-![image](Buildingrelationshipwithprofessors.jpg)
+![image](Buildingrelationshipswithprofessors.jpg)
 
 ![image](EthicsandExcellence.png)
 

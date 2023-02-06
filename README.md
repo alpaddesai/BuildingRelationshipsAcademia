@@ -1,4 +1,4 @@
-# Student Building Relationships Academia
+# Student-Professor Building Relationships Academia
 
 ![image](Buildingrelationshipswithprofessors.jpg)
 
